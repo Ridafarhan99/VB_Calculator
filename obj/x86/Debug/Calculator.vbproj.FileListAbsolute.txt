@@ -1,0 +1,12 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
